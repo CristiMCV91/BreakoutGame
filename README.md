@@ -4,8 +4,7 @@
 
 ## Description
 
-Breakout Game is a classic arcade game implemented in Python using the Turtle graphics library. The game revolves around controlling a paddle to bounce a ball and break bricks arranged in different configurations across multiple levels. Players aim to clear all bricks on each level while avoiding letting the ball fall below the paddle. The game includes features such as a dynamic scoreboard displaying current level, score, and game speed percentage. Sound effects add to the gameplay experience, providing feedback for ball interactions with bricks and game events like level completion or game over. Breakout Game offers nostalgic gameplay with modern enhancements, suitable for all ages.
-
+This is Breakout Game arcade game implemented in Python using the Turtle graphics library. The game revolves around controlling a paddle to bounce a ball and break bricks arranged in different configurations across 3 levels. Players aim to clear all bricks on each level while avoiding letting the ball fall below the paddle. The game includes features such as a dynamic scoreboard displaying current level, score, and game speed percentage. Sound effects add to the gameplay experience, providing feedback for ball interactions with bricks and game events like level completion or game over.
 ## Features
 
 * Paddle and Ball: Control a paddle to bounce a ball and break bricks.
